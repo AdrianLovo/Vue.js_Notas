@@ -10,5 +10,7 @@ Codigos base de Vue.js
 ## [06 Directiva v-for](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/06-Directiva%20v-for)
 ## [07 Directiva v-text v-html](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/07-Directiva%20v-text%20v-html)
 ## [08 Directiva v-bind](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/08-Directiva%20v-bind)
+## [09 Componentes](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/09-Componentes)
+## [10 Componentes . Props](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/10-Componentes%20.%20Props)
 
 
