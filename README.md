@@ -12,5 +12,11 @@ Codigos base de Vue.js
 ## [08 Directiva v-bind](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/08-Directiva%20v-bind)
 ## [09 Componentes](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/09-Componentes)
 ## [10 Componentes . Props](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/10-Componentes%20.%20Props)
+## [11 Transiciones](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/11-Transiciones)
+## [12 Filtros](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/12-Filtros)
+## [13 Tareas Computadas](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/13-Tareas%20Computadas)
+## [14 Vue con AJAX](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/14-Vue%20con%20AJAX)
+## [15 Vue Cli](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/15-Vue%20Cli)
+
 
 
