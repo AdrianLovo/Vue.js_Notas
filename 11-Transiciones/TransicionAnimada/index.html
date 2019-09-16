@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="estilos.css">
+	<script src="vue.js"></script>
+</head>
+<body>
+	
+
+	<main>
+		<button v-on:click="mostrar = !mostrar">Haz Click</button>
+		<transition	name="mi-trans">
+			<p v-if="mostrar">Transicion Simple</p>		
+		</transition>
+	</main>
+
+	<script src="InstVue.js"></script>
+</body>
+</html>

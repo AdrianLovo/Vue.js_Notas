@@ -1,0 +1,19 @@
+Primero Instalar vue-cli
+	# npm install -g vue-cli
+
+Crear un proyecto webpack-simple
+	# vue init webpack-simple nombre-proyecto
+	# cd nombre-proyecto
+
+Instalar dependencias
+	# npm install
+
+Corrar Proyecto
+	# npm run dev
+
+Crear archivo para produccion
+	# npm run build
+
+Subir a produccion
+	- Carpeta dis
+	. Archivo index.html del proyecto
