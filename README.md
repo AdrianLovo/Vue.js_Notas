@@ -18,7 +18,7 @@ Codigos base de Vue.js
 ## [14 Vue con AJAX](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/14-Vue%20con%20AJAX)
 ## [15 Vue Cli](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/15-Vue%20Cli)
 ## [16 Directiva V-once](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/16-Directiva%20V-once)
-## [17 Escuchando eventos con Vue](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/17-Escuchando%20Eventos%20con%20vue)
+## [17 Escuchando eventos con Vue](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/17-Escuchando%20Eventos%20con%20Vue)
 ## [18 Vue Observables](https://github.com/AdrianLovo/NotasCodeVue.js/tree/master/18-Observables)
 
 
