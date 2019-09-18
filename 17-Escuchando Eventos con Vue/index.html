@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="estilos.css">
+	<script src="vue.js"></script>
+</head>
+<body>
+	
+
+	<div id="app">
+		<input type="text" v-model="inicialContador" v-on:keyup="cambiarContador" >
+		<button v-on:click="aumentarContador(2)">Aumentar Contador en 2</button>
+		<p>{{ contador }}</p>
+		<p v-on:mousemove="actualizarValores">{{ x }} {{ y }}</p>
+	</div>
+
+	<script src="InstVue.js"></script>
+</body>
+</html>
